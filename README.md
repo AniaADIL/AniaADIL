@@ -15,13 +15,13 @@ I am passionate about programming and new technologies. Currently, I am seeking 
 I’m diving into projects involving data science, automation, and ecosystem modeling using Python, C, and OCaml, and enhancing my web development skills with JavaScript and PHP.
 
 📚 **Notable Projects**  
-🖥️ CPU Simulator in C
+🖥️ **CPU Simulator in C**
 Created an assembler simulator with register, memory, and instruction handling.
-🌐 Personal Interactive Portfolio
+🌐 **Personal Interactive Portfolio**
 Designed a personal website to present my skills, projects, and background. 
-🐾 Simulating a "Predator-Prey" 
+🐾 **Simulating a "Predator-Prey"** 
 Ecosystem, including data structure manipulation and graphical representation in C and Gnuplot.  
-⚙️ Automata Theory
+⚙️ **Automata Theory**
 Studying finite automata, their creation, and operations using Python and JFLAP.
 
 🤝 **Looking to Collaborate On**  
