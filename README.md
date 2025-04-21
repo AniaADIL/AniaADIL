@@ -3,13 +3,16 @@
 🔍 **About Me**  
 I am passionate about programming and new technologies. Currently, I am seeking an internship of at least three months starting in March 2025, where I can apply my skills, learn from experienced professionals, and grow in the field.
 
-💻 **Skills & Technologies**  
-- **Languages:** Java, Python, C, OCaml, HTML, CSS, JavaScript, PHP  
-- **Tools & Frameworks:** Git, GitHub, Bootstrap, Jupyter Notebook, Visual Studio Code  
-- **Databases:** SQL  
-- **Scripting & Systems:** Shell (Bash)  
-- **Data Science:** Projects involving automata, ecosystem simulation, and data analysis  
-- **Development:** Full-stack web development, object-oriented programming, and functional programming
+## 💻 **Skills & Technologies**
+
+- **Programming Languages:** Java, Python, C, OCaml, HTML, CSS, JavaScript, PHP  
+- **Object-Oriented Programming:** Java, Python  
+- **Functional Programming:** OCaml  
+- **Web Development:** HTML, CSS, JavaScript, PHP, Node.js, Angular, React.js, Bootstrap  
+- **Scripting & Systems Administration:** Shell, Bash, Unix systems  
+- **Databases:** SQL, MySQL  
+- **Data Science:** Pandas, NumPy, Matplotlib  
+- **Data Structures:** Hash tables, Trees, Lists  
 
 🌱 **Currently Learning**  
 I’m diving into projects involving data science, automation, and ecosystem modeling using Python, C, and OCaml, and enhancing my web development skills with JavaScript and PHP.
