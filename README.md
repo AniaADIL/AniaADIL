@@ -1,6 +1,6 @@
 👋 Hi, I’m Ania Adil, an enthusiastic student pursuing a Bachelor's degree in New Technologies Developer (DANT) at Sorbonne University.
 
-🔍 **About Me**  
+## 🔍 **About Me**  
 I am passionate about programming and new technologies. Currently, I am seeking an internship of at least three months starting in March 2025, where I can apply my skills, learn from experienced professionals, and grow in the field.
 
 ## 💻 **Skills & Technologies**
@@ -14,10 +14,10 @@ I am passionate about programming and new technologies. Currently, I am seeking 
 - **Data Science:** Pandas, NumPy, Matplotlib  
 - **Data Structures:** Hash tables, Trees, Lists  
 
-🌱 **Currently Learning**  
+## 🌱 **Currently Learning**  
 I’m diving into projects involving data science, automation, and ecosystem modeling using Python, C, and OCaml, and enhancing my web development skills with JavaScript and PHP.
 
-📚 **Notable Projects**  
+## 📚 **Notable Projects**  
 - 🖥️ **CPU Simulator in C**
 Created an assembler simulator with register, memory, and instruction handling.
 - **☁️ Weather Website**
@@ -29,10 +29,10 @@ Ecosystem, including data structure manipulation and graphical representation in
 - ⚙️ **Automata Theory**
 Studying finite automata, their creation, and operations using Python and JFLAP.
 
-🤝 **Looking to Collaborate On**  
+## 🤝 **Looking to Collaborate On**  
 I’m interested in collaborating on open-source projects or internships related to software development, web technologies, data science, and system programming.
 
-📫 **How to Reach Me**  
+## 📫 **How to Reach Me**  
 Feel free to reach out to me via GitHub or email : aniaadil05@gmail.com for collaboration opportunities.
 
 😄 **Pronouns:** She/Her  
